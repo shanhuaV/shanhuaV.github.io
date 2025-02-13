@@ -1,107 +1,149 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.11">
   <diagram id="31b32b95-0358-9bc7-6ba0-a27c054ed1a7" name="Page-1">
-    <mxGraphModel dx="959" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="medj744ytxk-ZfBOXQ-K-96" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-96" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="780" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-104" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="340" y="650" width="780" height="110" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-104" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="780" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-95" target="medj744ytxk-ZfBOXQ-K-106">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-95" target="medj744ytxk-ZfBOXQ-K-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-95" target="medj744ytxk-ZfBOXQ-K-105">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-95" target="medj744ytxk-ZfBOXQ-K-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-95" target="medj744ytxk-ZfBOXQ-K-107">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-95" target="medj744ytxk-ZfBOXQ-K-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-95" value="面向高级持续性威胁的行为检测关键技术研究" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-95" value="面向高级持续性威胁的检测与溯源关键技术研究" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="110" width="780" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-97" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-97" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="780" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-98" target="medj744ytxk-ZfBOXQ-K-102">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fontSize=14;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-98" target="medj744ytxk-ZfBOXQ-K-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-98" value="多模态数据采集与特征工程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="675" width="120" height="60" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-98" value="多维数据采集与特征工程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="637.5" width="190" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-99" target="medj744ytxk-ZfBOXQ-K-98">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;exitX=0.444;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-99" target="medj744ytxk-ZfBOXQ-K-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="581" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" target="medj744ytxk-ZfBOXQ-K-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750.0000000000002" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-141" target="medj744ytxk-ZfBOXQ-K-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990.0000000000002" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fontSize=14;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-102" target="medj744ytxk-ZfBOXQ-K-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="220" height="180" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-102" value="元学习动态检测模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="675" y="637.5" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-100" target="medj744ytxk-ZfBOXQ-K-102">
+        <mxCell id="medj744ytxk-ZfBOXQ-K-103" value="高鲁棒性指纹提取与溯源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="910" y="637.5" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-105" target="medj744ytxk-ZfBOXQ-K-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-100" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="380" width="180" height="170" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-105" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;模态割裂&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;单一维度数据难以捕捉跨模态攻击特征关联性&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="235" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-101" target="medj744ytxk-ZfBOXQ-K-103">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750.0000000000002" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="380" width="180" height="170" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-106" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;小样本依赖&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;新型攻击样本稀缺，传统监督学习泛化能力不足&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="235" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-102" target="medj744ytxk-ZfBOXQ-K-103">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-102" value="元学习动态检测模型构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="675" width="120" height="60" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-107" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;指纹稀疏性&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;攻击者通过混淆技术破坏数字指纹的稳定标识能力&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="885" y="235" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-103" value="高鲁棒性指纹提取与溯源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="675" width="120" height="60" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-130" value="研究&lt;div&gt;对象&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-105" target="medj744ytxk-ZfBOXQ-K-99">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-131" value="研究&lt;div&gt;问题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-105" value="问题1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="235" width="120" height="60" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-132" value="研究&lt;div&gt;内容&lt;/div&gt;&lt;div&gt;及技术&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="60" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-106" target="medj744ytxk-ZfBOXQ-K-100">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-133" value="研究&lt;div&gt;逻辑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="280" y="620" width="60" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-106" value="问题2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="235" width="120" height="60" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-146" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="640" y="360" width="218" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="medj744ytxk-ZfBOXQ-K-107" target="medj744ytxk-ZfBOXQ-K-101">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-136" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-146">
+          <mxGeometry width="218" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-107" value="问题3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="235" width="120" height="60" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-137" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;分层元训练策略设计&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-146">
+          <mxGeometry x="19" y="70" width="180" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-121" value="多模态特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="400" width="180" height="50" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-138" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;对抗鲁棒性增强&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-146">
+          <mxGeometry x="19" y="120" width="180" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-122" value="时空图构建（ST-GCN）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="450" width="180" height="50" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-139" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;在线自适应机制实现&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-146">
+          <mxGeometry x="19" y="170" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-123" value="跨模态对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="500" width="180" height="50" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-140" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于元学习的动态检测模型&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-146">
+          <mxGeometry y="1" width="218" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-124" value="小样本调优" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="395" width="180" height="55" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-147" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="360" width="240" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-125" value="MAML框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="445" width="180" height="50" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-147">
+          <mxGeometry width="240" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-126" value="对抗样本生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="495" width="180" height="50" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-121" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;多源异构数据采集与标准化处理&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-147">
+          <mxGeometry x="30" y="70" width="180" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-127" value="知识图谱构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="390" width="180" height="50" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-122" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;跨模态时空对齐与语义增强&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-147">
+          <mxGeometry x="30" y="120" width="180" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-128" value="梯度掩蔽攻击模拟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="440" width="180" height="50" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-123" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;对抗鲁棒性增强与数据验证&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-147">
+          <mxGeometry x="30" y="170" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="medj744ytxk-ZfBOXQ-K-129" value="跨模态对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="490" width="180" height="50" as="geometry" />
+        <mxCell id="medj744ytxk-ZfBOXQ-K-135" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;多模态攻击行为表征与关联分析&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-147">
+          <mxGeometry y="1" width="240" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-148" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="900" y="361" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-141" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-148">
+          <mxGeometry width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-142" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;攻击工具语义指纹的深度对比学习提取&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-148">
+          <mxGeometry x="10" y="69" width="180" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-143" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;行为链上下文指纹的时空建模&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-148">
+          <mxGeometry x="10" y="119" width="180" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-144" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI&amp;quot;; letter-spacing: 0pt; background: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Segoe UI&quot;&gt;抗干扰增强与司法级验证&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-148">
+          <mxGeometry x="10" y="169" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="medj744ytxk-ZfBOXQ-K-145" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;高置信度指纹溯源体系&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="medj744ytxk-ZfBOXQ-K-148">
+          <mxGeometry y="1" width="200" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
