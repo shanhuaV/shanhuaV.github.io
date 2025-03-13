@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kTAInymMW0h2QGbCLt8H-1" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="-288" width="490" height="660" as="geometry" />
+          <mxGeometry x="1555" y="-288" width="490" height="660" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-2" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="-288" width="340" height="660" as="geometry" />
+          <mxGeometry x="1090" y="-288" width="340" height="660" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-3" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="610" y="-288" width="340" height="660" as="geometry" />
@@ -43,51 +43,51 @@
           <mxGeometry x="676" y="284" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-9" value="进程树" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="-233" width="210" height="54" as="geometry" />
+          <mxGeometry x="1155" y="-233" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-10" value="时空异构图构建器" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="-127" width="210" height="54" as="geometry" />
+          <mxGeometry x="1155" y="-127" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-11" value="动态图注意力网络&#xa;（GRU+多头注意力）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="4.5" width="210" height="54" as="geometry" />
+          <mxGeometry x="1155" y="4.5" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-12" value="双塔对比学习架构&#xa;（余弦相似度约束）" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="137" width="210" height="54" as="geometry" />
+          <mxGeometry x="1155" y="137" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;shape=flexArrow;" edge="1" parent="1" source="kTAInymMW0h2QGbCLt8H-13" target="kTAInymMW0h2QGbCLt8H-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1522" y="309" />
-              <mxPoint x="1522" y="138" />
+              <mxPoint x="1489" y="309" />
+              <mxPoint x="1489" y="138" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-13" value="强判别性指纹" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="282" width="210" height="54" as="geometry" />
+          <mxGeometry x="1155" y="282" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kTAInymMW0h2QGbCLt8H-14" target="kTAInymMW0h2QGbCLt8H-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-14" value="对抗样本" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="-167" width="210" height="54" as="geometry" />
+          <mxGeometry x="1815" y="-167" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kTAInymMW0h2QGbCLt8H-15" target="kTAInymMW0h2QGbCLt8H-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-15" value="MITRE ATT&amp;CK图谱" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="-53" width="210" height="54" as="geometry" />
+          <mxGeometry x="1585" y="-53" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-16" value="司法级溯源引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="111" width="210" height="54" as="geometry" />
+          <mxGeometry x="1725" y="111" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-17" value="输出" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="276" width="210" height="54" as="geometry" />
+          <mxGeometry x="1725" y="276" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="kTAInymMW0h2QGbCLt8H-18" target="kTAInymMW0h2QGbCLt8H-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2136" y="-27" />
-              <mxPoint x="2136" y="420" />
+              <mxPoint x="2088" y="-27" />
+              <mxPoint x="2088" y="420" />
               <mxPoint x="781" y="420" />
             </Array>
           </mxGeometry>
@@ -98,13 +98,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-18" value="梯度掩蔽对抗训练器" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1850" y="-54" width="210" height="54" as="geometry" />
+          <mxGeometry x="1815" y="-54" width="210" height="54" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-19" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1001" y="128" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-20" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1032" y="254" as="geometry" />
+          <mxGeometry x="1015" y="254" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-21" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="861" y="159" as="geometry" />
@@ -116,16 +116,16 @@
           <mxGeometry x="726" y="311" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-24" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="-300" as="geometry" />
+          <mxGeometry x="1272" y="-300" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-25" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="178" as="geometry" />
+          <mxGeometry x="1383" y="178" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-26" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1441" y="305" as="geometry" />
+          <mxGeometry x="1424" y="305" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-27" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="305" as="geometry" />
+          <mxGeometry x="1224" y="305" as="geometry" />
         </mxCell>
         <mxCell id="kTAInymMW0h2QGbCLt8H-28" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1280" y="431" as="geometry" />
