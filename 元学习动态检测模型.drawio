@@ -84,7 +84,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6nDZSmWIB0FfNVac5v39-75" value="全局更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6nDZSmWIB0FfNVac5v39-74">
+        <mxCell id="6nDZSmWIB0FfNVac5v39-75" value="全局更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="6nDZSmWIB0FfNVac5v39-74">
           <mxGeometry x="0.2197" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -107,9 +107,6 @@
         <mxCell id="6nDZSmWIB0FfNVac5v39-19" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="462" y="794" as="geometry" />
         </mxCell>
-        <mxCell id="6nDZSmWIB0FfNVac5v39-20" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="857" y="901" as="geometry" />
-        </mxCell>
         <mxCell id="6nDZSmWIB0FfNVac5v39-21" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="716" y="673" as="geometry" />
         </mxCell>
@@ -130,9 +127,6 @@
         </mxCell>
         <mxCell id="6nDZSmWIB0FfNVac5v39-27" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1205" y="817" as="geometry" />
-        </mxCell>
-        <mxCell id="6nDZSmWIB0FfNVac5v39-28" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1193" y="917" as="geometry" />
         </mxCell>
         <mxCell id="6nDZSmWIB0FfNVac5v39-31" value="任务支持集/查询集" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="6nDZSmWIB0FfNVac5v39-5" target="6nDZSmWIB0FfNVac5v39-7">
           <mxGeometry relative="1" as="geometry" />
