@@ -1,9 +1,178 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="第 1 页" id="A0zR68kN7-x9ofTVkDkA">
-    <mxGraphModel>
+    <mxGraphModel dx="1695" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-2" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="452" y="472" width="662" height="534" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1284" y="474" width="543" height="496" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="702" y="20" width="1037" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-4" value="原始网络流量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="855" y="45" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-5" value="网络层特征提取器&#xa;（改进型Suricata探针）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="839" y="149" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-6" value="标准化多源数据集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1066" y="293" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-7" value="主机系统调用序列" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1204" y="45" width="188" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-8" value="主机层进程图谱构建器&#xa;（内核态ProcMon增强）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1188" y="149" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-9" value="应用层API调用流" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="45" width="179" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-10" value="应用层API追踪器&#xa;（Intel VT-x监控）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="149" width="179" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-11" value="时空联合编码器&#xa;（NTP-PTP时钟同步）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="807" y="517" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-12" value="跨层异构图神经网络&#xa;（GATv2多头注意力）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="669" width="204" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-13" value="语义缝合的攻击链推理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="467" y="795" width="252" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-14" value="对抗样本生成器&#xa;（GAN/DKOM模拟/API混淆）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1568" y="529" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-15" value="司法级验证模块&#xa;（CNNVD双盲标注）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1381" y="681" width="172" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-16" value="增强数据集" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="823" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-17" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="940" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-18" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1131" y="472" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-19" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1304" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-20" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="493" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-21" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1631" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-22" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1582" y="493" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-23" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="981" y="696" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-24" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="999" y="822" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-25" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="769" y="822" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-26" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="769" y="974" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-27" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="708" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-28" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-29" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="855" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-30" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1506" y="975" as="geometry" />
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-4" target="xK2gMv-OVK_lQZHUOuJI-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-32" value="时序特征/协议语义/JA3指纹" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=1;entryX=0;entryY=0.13;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-5" target="xK2gMv-OVK_lQZHUOuJI-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="824" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-7" target="xK2gMv-OVK_lQZHUOuJI-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-34" value="进程关系图/内存注入行为/时间戳事件流" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-8" target="xK2gMv-OVK_lQZHUOuJI-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-9" target="xK2gMv-OVK_lQZHUOuJI-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-36" value="敏感API序列/代码注入标记" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=1;entryY=0.15;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-10" target="xK2gMv-OVK_lQZHUOuJI-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1514" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.37;exitY=1;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-6" target="xK2gMv-OVK_lQZHUOuJI-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="384" />
+              <mxPoint x="1105" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-47" value="统一时间轴多模态事件序列" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-11" target="xK2gMv-OVK_lQZHUOuJI-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="722" y="596" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-48" value="攻击行为关联图谱" style="curved=1;startArrow=none;endArrow=block;exitX=0.23;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-12" target="xK2gMv-OVK_lQZHUOuJI-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="593" y="759" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-6" target="xK2gMv-OVK_lQZHUOuJI-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-57" value="对抗性增强数据集" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-14" target="xK2gMv-OVK_lQZHUOuJI-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1467" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xK2gMv-OVK_lQZHUOuJI-58" value="可信标注数据集" style="curved=1;startArrow=none;endArrow=block;exitX=0.28;exitY=0.99;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="xK2gMv-OVK_lQZHUOuJI-15" target="xK2gMv-OVK_lQZHUOuJI-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1379" y="771" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
